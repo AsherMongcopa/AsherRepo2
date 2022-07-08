@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "uiproject-5daa5"
+  },
+  "targets": {
+    "uiproject-5daa5": {
+      "hosting": {
+        "responsive-dashboard": [
+          "responsive-dashboard"
+        ]
+      }
+    }
+  }
+}
